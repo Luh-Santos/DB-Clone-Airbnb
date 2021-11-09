@@ -1,5 +1,5 @@
 ## Descrição do sistema: 
 A descrição abaixo indica a informação disponível para o sistema que deve ser desenvolvido. “O Airbnb (https://www.airbnb.com.br/) é uma plataforma de aluguel de hospedagens, que permite que qualquer pessoa disponibilize ou reserve acomodações ao redor do mundo. O Airbnb funciona assim: você pesquisa a estadia na cidade e período desejado, podendo filtrar os resultados com base no tipo de acomodação (casa, apartamento, quarto) e em vários outros requisitos, como capacidade, avaliações de outros hóspedes, localização, se permite ou não animais de estimação, se tem estacionamento, entre outros. Uma vez escolhido o local desejado, o usuário realiza a reserva pelo período de tempo desejado, caso a locação esteja disponível nas datas desejadas. 
 
-## O que é esperado do sistema desenvolvido? 
+## O que é esperado do sistema desenvolvido?? 
 Espera-se que pelo menos seja possível realizar a listagem/filtragem de ofertas de hospedagem (é tarefa do grupo decidir que informações farão parte do sistema com base no que é utilizado pelo Airbnb). Como se trata de um desafio, funcionalidades adicionais como uma página para cadastrar ofertas, uma página para realizar a confirmação de uma reserva, etc, serão uma demonstração interessante das capacidades do grupo.”
